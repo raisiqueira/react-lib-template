@@ -58,8 +58,10 @@
   },
   "size-limit": [
     {
-      "path": "dist/main.js",
-      "limit": "10 kB"
+      "path": "dist/main.js"
+    },
+    {
+      "path": "dist/module.js"
     }
   ]
 }
