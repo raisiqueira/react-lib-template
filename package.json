@@ -23,7 +23,8 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix",
     "format": "prettier --write './**/*.{js,jsx,ts,tsx,css,md,json}' --config ./.prettierrc",
-    "size": "size-limit"
+    "size": "size-limit",
+    "analyze": "size-limit --why"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.16.8",
