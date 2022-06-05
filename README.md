@@ -41,6 +41,10 @@ Parcel is configured to export a CJS and ESModule. See more on [Parcel's documen
 - `CI` with installs deps and runs `yarn run lint`, `yarn run build`.
 - `size` witch comments const comparation of your library on every pull request.
 
+## Sponsors
+
+[![Sponsors](https://github.com/raisiqueira/headless-stepper-monorepo/raw/HEAD/sponsorkit/sponsors.svg)](https://headless-stepper.netlify.app/sponsors)
+
 ## License
 
 MIT
