@@ -43,7 +43,7 @@ Parcel is configured to export a CJS and ESModule. See more on [Parcel's documen
 
 ## Sponsors
 
-[![Sponsors](https://github.com/raisiqueira/headless-stepper-monorepo/raw/HEAD/sponsorkit/sponsors.svg)](https://headless-stepper.netlify.app/sponsors)
+[![Sponsors](https://cdn.jsdelivr.net/gh/raisiqueira/static/sponsors.svg)](https://headless-stepper.netlify.app/sponsors)
 
 ## License
 
